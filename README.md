@@ -1,7 +1,44 @@
+<img width="180" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/icon.png" alt="CryptoVault" title="cryptovault"/>
+
 # CryptoVault
-Link: https://cryptovault-daydreaming.vercel.app/ <br>
-We are creating a proposed advanced online application that uses the Tezos blockchain and React.js to build a decentralized and secure file-sharing network. This platform will focus on addressing key concerns about data security and privacy, allowing the users to share sensitive information with confidence.  
 
-Key features would include secure document uploads to IPFS(InterPlanetary File System), with transactions handled on the Tezos blockchain to ensure safety. The app would integrate with Beacon wallets like Temple to create secure connections for users.  
+An advanced web app built with React.js and utilizing the Tezos blockchain, creates a secure, decentralized file-sharing network. The platform focuses on privacy and data security, using IPFS to store documents, ensuring they’re protected and accessible worldwide. With Tezos transactions, each file upload is recorded immutably on the blockchain. Beacon wallet integration allows for secure user authentication, while address-based data retrieval offers a personalized experience. The file-sharing feature is user-friendly, promoting seamless collaboration without compromising security, making it a powerful and forward-thinking tool for decentralized file management.
 
-Additionally, it would provide a simple way to retrieve documents linked to specific addresses, making access quick and efficient. A user-friendly file-sharing function would also allow users to share files securely, enhancing collaboration and making it easy to work together in a trusted environment. Overall, this proposed application aims to improve secure file sharing in a decentralized setting.
+
+## Features
+
+- **Upload Functionality**: Lets users securely upload documents to IPFS while processing transactions on the Tezos blockchain, ensuring privacy and integrity.
+- **Beacon Wallet Integration**: Connects seamlessly with wallets like Temple, enabling users to securely authenticate and interact with the application.
+- **Data Retrieval**: Allows users to input an address and retrieve documents linked to that address, making data access quick and efficient.
+- **File Sharing**: Supports secure file sharing between users, promoting easy collaboration and enhancing overall accessibility.
+
+
+### Showcase Video [Here](https://linktodocumentation)
+### Checkout CryptoVault here: https://cryptovault-daydreaming.vercel.app/
+
+## Build with:
+  <div align="center">
+  <code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/tezos.png" alt="tezos" title="tezos"/></code>
+	<code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/smartpy.png" alt="smartpy" title="smartpy"/></code>
+	<code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/nodejs.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/vite.png" alt="Vite" title="Vite"/></code>
+	<code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/pinata.png" alt="pinata" title="pinata"/></code>
+	<code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/vscode.png" alt="VSCode" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/npm.png" alt="npm" title="npm"/></code>
+</div>
+
+
+## Screenshots
+### 1. Homepage
+![Screenshot 2024-10-27 004944](https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/Screenshot%202024-10-27%20004944.png)
+### 2. Services(Connect Wallet)
+![Screenshot 2024-10-27 004953](https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/Screenshot%202024-10-27%20004953.png)
+### 3. Services(Connected Wallet)
+![Screenshot 2024-10-27 005749](https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/Screenshot%202024-10-27%20005749.png)
+### 4. Share Access
+![Screenshot 2024-10-27 005022](https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/Screenshot%202024-10-27%20005022.png)
+
+## Contact: 
+For any query, contact at dev24.chinmay@gmail.com, wadhwamanan56@gmail.com
