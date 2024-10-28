@@ -16,6 +16,41 @@ An advanced web app built with React.js and utilizing the Tezos blockchain, crea
 ### Showcase Video [Here](https://youtu.be/1brYy-vAW3g)
 ### Checkout CryptoVault here: https://cryptovault-daydreaming.vercel.app/
 
+## Getting Started
+
+1. Make sure you have https://nodejs.org/ installed on your computer
+2. Create a new repository.
+3. Clone into that repository.
+
+   `git clone https://github.com/ChinmayNandawat/CryptoVault_Final.git`
+
+
+4. Install dependencies:
+
+   `npm install`
+
+5. Start development server:
+
+   `npm run dev`
+
+6. Open http://localhost:5173/ in your browser to see a sample application.
+
+## Building the dApp
+
+1. Run the command:
+
+   `npm run build`
+
+2. After you have build the app you can run it locally:
+
+   `npm run preview`
+
+3. Open http://localhost:4173/ in your browser to see the production build. 
+
+   For more information read the [Vite Guide](https://vitejs.dev/guide/static-deploy.html)
+
+ Now we can run the app. 
+
 ## Build with:
   <div align="center">
   <code><img width="50" src="https://github.com/ChinmayNandawat/CryptoVault_Final/blob/main/public/readme_images/tezos.png" alt="tezos" title="tezos"/></code>
